@@ -14,7 +14,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>SystemWrapper</RootNamespace>
     <AssemblyName>SystemWrapper</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
@@ -34,7 +34,7 @@
     <NoWarn>1591</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <DebugType>portable</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>..\_Build\Release\</OutputPath>
@@ -212,6 +212,7 @@
     </None>
     <None Include="packages.config" />
     <None Include="Settings.StyleCop" />
+    <None Include="signClawPDF.pfx" />
     <None Include="SystemWrapper.nuspec" />
   </ItemGroup>
   <ItemGroup>
