@@ -1,14 +1,14 @@
-# clawPDF - Virtual PDF/OCR/Image (Network) Printer
+# rapeechPDF - Virtual PDF/OCR/Image (Network) Printer
 
-ClawPDF may seem like yet another Virtual PDF/OCR/Image Printer, but it actually comes packed with features that are typically found in enterprise solutions. With clawPDF, you can create documents in various formats, including PDF/A-1b, PDF/A-2b, PDF/A-3b, PDF/X, PDF/Image, OCR, SVG, PNG, JPEG, TIF, and TXT. You also have easy access to metadata and can remove it before sharing a document. In addition, you can protect your documents with a password and encrypt them with up to 256-bit AES.
+ClawPDF may seem like yet another Virtual PDF/OCR/Image Printer, but it actually comes packed with features that are typically found in enterprise solutions. With rapeechPDF, you can create documents in various formats, including PDF/A-1b, PDF/A-2b, PDF/A-3b, PDF/X, PDF/Image, OCR, SVG, PNG, JPEG, TIF, and TXT. You also have easy access to metadata and can remove it before sharing a document. In addition, you can protect your documents with a password and encrypt them with up to 256-bit AES.
 
-ClawPDF offers a scripting interface that lets you automate processes and integrate it into your application. Moreover, you can install clawPDF on a print server and print documents over the network, not just locally.
+ClawPDF offers a scripting interface that lets you automate processes and integrate it into your application. Moreover, you can install rapeechPDF on a print server and print documents over the network, not just locally.
 
 ClawPDF is open-source and compatible with all major Windows client and server operating systems (x86/x64/ARM64), and it even supports multi-user environments!
 
 # Download
 
-https://github.com/clawsoftware/clawPDF/releases/download/0.9.3/clawPDF_0.9.3_setup.msi
+[추후공지]
 
 
 # Features
@@ -22,7 +22,7 @@ https://github.com/clawsoftware/clawPDF/releases/download/0.9.3/clawPDF_0.9.3_se
 - [Drag and Drop Support](https://github.com/clawsoftware/clawPDF/wiki/Drag-and-Drop)
 - [Merge Files](https://github.com/clawsoftware/clawPDF/wiki/Merge-Files)
 - [Command Line Support](https://github.com/clawsoftware/clawPDF/wiki/Command-Line-Commands)
-- [Silent Printing](https://github.com/clawsoftware/clawPDF/wiki/Silent-Printing)
+- [Silent Printing](https://github.com/clawsoftware/rapeechPDF/wiki/Silent-Printing)
 - [Custom Paper Sizes / Standard Paper Sizes](https://github.com/clawsoftware/clawPDF/wiki/(Custom)-Paper-Sizes)
 - 256-bit AES encryption
 - Light/Dark Theme
@@ -123,7 +123,7 @@ clawPDF.exe /ManagePrintJobs
 
 # Third-party
 
-## clawPDF uses the following licensed software or parts of the source code:
+## rapeechPDF uses the following licensed software or parts of the source code:
 
 - PDFCreator (https://github.com/pdfforge/PDFCreator), licensed under AGPL v3 license.
 - Pdftosvg.net (https://github.com/dmester/pdftosvg.net), licensed under MIT license.
@@ -144,5 +144,5 @@ clawPDF.exe /ManagePrintJobs
 
 # License
 
-clawPDF is licensed under AGPL v3 license<br>
+rapeechPDF is licensed under AGPL v3 license<br>
 Copyright (C) 2023 // Andrew Hess // clawSoft
